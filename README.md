@@ -6,6 +6,6 @@
 - :student: I’m currently learning `Web Development`.
 - ⚡ I know HTML
 - 😄 And a little bit of CSS, JavaScript
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/fabricio-vianna-b939211ba/" target="_blank">Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/fabricio-vianna-b939211ba/">Linkedin</a>
 - :nerd_face: Always `learning new things`.
 - ⚡ Fun fact: Food and Music🎵 are the reasons to live.
