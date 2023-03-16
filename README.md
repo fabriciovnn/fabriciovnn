@@ -4,7 +4,9 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 - :student: I’m currently learning `Web Development`.
+- :school: I’m a `Student` of Web Development Full Stack at <a href="https://growdev.com.br">Growdev</a>.
 - ⚡ I know `HTML`
 - 😄 And a little bit of `CSS` and `JavaScript`.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/fabricio-vianna-b939211ba/">Linkedin</a>
 - :nerd_face: Always `learning new things`.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/fabricio-vianna-b939211ba/">Linkedin</a>
+
