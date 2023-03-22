@@ -1,4 +1,4 @@
-### Hello friend 👋 My name is Fabricio, I am a Brazilian, Welcome to my Github home page.
+### Hello friend 👋 My name is Fabricio, I am Brazilian, Welcome to my Github home page.
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
