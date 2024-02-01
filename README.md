@@ -3,7 +3,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - :student: I’m currently learning `Web Development`.
-- :school: I’m a `Student` of Web Development Full Stack at <a href="https://growdev.com.br">Growdev</a>.
+- :school: I’m a `Student` of Web Development Full Stack at <a href="https://growdev.com.br" target="_blank">Growdev</a>.
 - :nerd_face: Always `learning new things`.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/fabricioarnecke/">Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/fabricioarnecke/" target="_blank">Linkedin</a>
 
